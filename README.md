@@ -1,1 +1,1 @@
-Note: Use this source code when you get some issues or doubts.
+### [live site](https://saifullah72437.github.io/duo-studio/)
